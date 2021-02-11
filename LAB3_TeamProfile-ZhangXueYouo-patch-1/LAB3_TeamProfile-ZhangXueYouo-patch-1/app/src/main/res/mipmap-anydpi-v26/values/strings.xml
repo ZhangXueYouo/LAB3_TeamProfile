@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HaitaoMao</string>
+    <string name="button_HM">Haitao Mao</string>
+    <string name="myprofilehm">MyProfileHM</string>
+    <string name="haitao_mao_TEXT">\n\nHaitao Mao</string>
+    <string name="homepage">HomePage</string>
+    <string name="Identity">Computer Science Student</string>
+    <string name="todo">TODO</string>
+</resources>
