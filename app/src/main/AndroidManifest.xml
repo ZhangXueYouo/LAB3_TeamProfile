@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.HaitaoMao">
-        <activity android:name=".Activity2" />
+        <activity android:name=".ActivityHM" />
+        <activity android:name=".ActivityJB" />
+        <activity android:name=".ActivityPF" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
