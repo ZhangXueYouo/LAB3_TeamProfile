@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyProfilePF</string>
+    <string name="description">Paola Flores photo</string>
+    <string name="paolaflores">Paola Flores</string>
+    <string name="programdesc">Computing Science Student</string>
+    <string name="info">General information:   Age: 20  Favorite food: lasagna  Nationality: Salvadorian</string>
+    <string name="myDescription">I am a very outgoing person that loves to try new things and meet new people. I would like to travel a lot.</string>
+    <string name="b_homePage">Home Page</string>
+</resources>
